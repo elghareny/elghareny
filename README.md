@@ -36,13 +36,11 @@
   
   
     
-<br><br>
+<div align="center">
   <a href="https://github.com/elghareny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghareny">
-</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elghareny&theme=github_dark&include_all_commits=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghareny&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
   
-  <a href="https://github.com/elghareny">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=elghareny&show_icons=true&line_height=30" alt="elghareny's github stats"/>
-</a>
+  ![Snake animation](https://github.com/Ravenpac/Ravenpac/blob/output/github-contribution-grid-snake.svg)
 
