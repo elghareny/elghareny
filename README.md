@@ -37,16 +37,12 @@
   
     
 <br><br>
-  <a href="https://github.com/AhmedElSayyadMohamed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElSayyadMohamed">
+  <a href="https://github.com/elghareny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghareny">
 </a>
 
   
-  <a href="https://github.com/AhmedElSayyadMohamed">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElSayyadMohamed&show_icons=true&line_height=30" alt="AhmedElSayyadMohamed's github stats"/>
+  <a href="https://github.com/elghareny">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=elghareny&show_icons=true&line_height=30" alt="elghareny's github stats"/>
 </a>
-
-  
-  <br>  <br>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=AhmedElSayyadMohamed" alt="AhmedElSayyadMohamed" /></a> </p>
 
