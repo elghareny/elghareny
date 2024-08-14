@@ -23,26 +23,20 @@ I'm striving to develop my skills in the field of web development.<br>
 
 ###
 
-<div align="left">
-  <a href="https://www.mohamed1192000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/elghareny/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/semporay" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <span>01027318124</span>
-<!--   <a href="+201027318124" target="_blank">
-    +201027318124
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a> -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/elghareny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elghareny/" height="30" width="40" /><a href="https://www.facebook.com/semporay" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" alt="Mohamed said" height="50" width="50" /></a></a>
+<a href="https://www.instagram.com/el_ghareny/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohamed said" height="30" width="40" /></a>
+<br>
+☛ or you can send me on : <a a href="https://mail.google.com"><strong>mohamed1192000@gmail.com</strong></a>
+  <br>
+☛ or here: 01027318124
+</p>
   
 </div>
 
 ###
 
- ![Snake animation](https://github.com/Ravenpac/Ravenpac/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/elghareny/elghareny/blob/output/github-contribution-grid-snake.svg)
 
 ###
