@@ -40,6 +40,6 @@ I'm striving to develop my skills in the field of web development.<br>
 
 ###
 
-<img src="https://raw.githubusercontent.com/elghareny/elghareny/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/Ravenpac/Ravenpac/blob/output/github-contribution-grid-snake.svg)
 
 ###
