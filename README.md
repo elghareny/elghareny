@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Mohamed Said and I'm a Frontend Developer in Reactjs 👩‍💻</h1>
+<h1 align="center">Hi 👋! My Name Is Mohamed Said and I'm A Frontend Developer👩‍💻</h1>
 <br>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=530&lines=◉+Junior+Frontend+❝ReactJs❞+Developer;◉+Over+1+Year+Experience;◉+Have+Studied+Computer+Science+for+4+Years;◉+Thank+You+for+Viewing+My+Profile+🤍..." alt="Typing SVG" /></a></p>
