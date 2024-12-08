@@ -10,9 +10,8 @@
 <br clear="both">
 
 <div align="start">
-  I learned HTML, CSS, JavaScript, and React.js. I created dynamic and efficient web applications.<br>
-I'm always looking for Chances to learn and grow my skills.<br>
-I'm striving to develop my skills in the field of web development.<br>
+ I'm a frontend developer.
+I created dynamic and efficient web applications. Adept at developing clean, maintainable code and improving performance, always looking for Chances to learn and grow my skills, striving to develop my skills in the field of web development.<br>
 </div>
 
 ###
